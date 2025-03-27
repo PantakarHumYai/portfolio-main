@@ -15,8 +15,8 @@ function Footer() {
         onClick={() => {
           window.open(FooterLink);
         }}
-      >
-        rahulvijay
+      >Typewriter__wrapper
+        Pantakarn
       </div>
     </div>
   );

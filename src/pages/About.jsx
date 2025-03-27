@@ -26,11 +26,11 @@ function About() {
             >
               {skillsData.map((skill, id) => (
                 <div
-                  className="ml-4 flex h-24 w-24 flex-col items-center justify-center gap-2"
+                  className="ml-4 flex h-30 w-24 flex-col items-center justify-center gap-1 px-5"
                   key={id}
                 >
                   <img
-                    className="h-[50px] w-[60px] bg-contain bg-no-repeat"
+                    className="h-[50px] w-[50px] bg-contain bg-no-repeat "
                     src={skillsImage(skill)}
                     alt={skill}
                   />

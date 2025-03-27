@@ -1,40 +1,29 @@
 export const UserData = {
-  name: "Rahul Vijay",
-  about : "I'm a front end developer that learned everything on my own. I specialize in creating dynamic, accessible websites that work on any device. Furthermore, I regularly create creative solutions that improve user experiences. I am proficient in React.js, Redux, JavaScript, HTML5, and CSS. I guarantee efficient code management and communication thanks to my knowledge with Git version control. Likewise, I'm also skilled at developing apps using mini program studio frameworks and exceeding client expectations with my high-caliber solutions.",
-  resumeUrl : "https://drive.google.com/file/d/1LSVLVmJA_3fhWtZPc_d_pHnkXhL4s-Oc/view",
-  FooterLink : "https://www.linkedin.com/in/rahulvijay81/",
+  name: "Pantakarn Chuayrod",
+  about : "I am a second-year student in Electronic and Computer Technology (ECT) at King Mongkut’s University of Technology North Bangkok. I may not be the strongest in theory, but I am constantly working to improve myself. Here are some of my key skills that I’d like to present—I hope you find them useful and enjoyable!",
+  resumeUrl : "https://drive.google.com/file/d/1nxLoH41SfY2zqqP8TyX01bz8GbSs8mwR/view?usp=sharing",
+  FooterLink : "https://www.facebook.com/Peemzakung/",
   socialMedia: [
     {
       socialMediaName: "github",
-      url: "https://github.com/rahulvijay81",
+      url: "https://github.com/PantakarHumYai",
       icon: "AiFillGithub",
     },
     {
-      socialMediaName: "linkedin",
-      url: "https://www.linkedin.com/in/rahulvijay81/",
-      icon: "FaLinkedinIn",
-    },
-    {
-      socialMediaName: "twitter",
-      url: "https://twitter.com/rahulvijay8156",
-      icon: "AiOutlineTwitter",
-    },
-    {
       socialMediaName: "instagram",
-      url: "https://instagram.com/rahulvijay81",
+      url: "https://www.instagram.com/_pxntxh",
       icon: "AiFillInstagram",
     },
   ],
   typewriterOptions: {
     strings: [
-      "Front End Developer",
-      "React Js Developer",
-      "React Native Developer",
-      "UI Developer",
-      "Javascript Developer",
+      "สวัสดีผู้เข้าชมทุกท่าน",
+      "ยินดีต้อนรับสู่",
+      "Portfolio ของผม",
+      "ขอบคุณที่สนใจนะครับ",
     ],
     autoStart: true,
     loop: true,
-    deleteSpeed: 30,
+    deleteSpeed: 100,
   },
 };
